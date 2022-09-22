@@ -1,0 +1,36 @@
+.links-list li a:hover {
+    color: #68A678;
+}
+
+.login button:hover,
+.build .content .text button:hover,
+.work .content .office .text button:hover,
+.work .content .mansion .text button:hover,
+.work .content .eco .text button:hover,
+.talk .content form button:hover {
+    background-color: #007471;
+}
+
+.build .content .text p a:hover {
+    color: #007471;
+}
+
+.build .content .mainpic img:hover,
+.work .content .office .pic img:hover,
+.work .content .mansion .pic img:hover,
+.work .content .eco .pic img:hover {
+    margin-left: 10px;
+    transition: all 0.3s ease-out;
+}
+
+.about .content .text .boxes .box:hover {
+    background-color: #bbdfc4;
+    color: #FFFFFF;
+}
+
+.ft-links-list li a:hover {
+    font-size: 18px;
+    transition: all 0.3s ease-out;
+}
+
+
